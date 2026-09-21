@@ -3,6 +3,8 @@
 A lightweight, single-page revision web app covering the full Cambridge IGCSE Computer Science (0478) syllabus 
 for both Paper 1 (Computer Systems) and Paper 2 (Algorithms, Programming & Logic).
 
+https://wai-lin-htet.github.io/CS_IGCSE/
+
 ---
 
 ## Features
